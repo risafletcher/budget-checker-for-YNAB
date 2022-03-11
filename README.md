@@ -1,2 +1,2 @@
-# YNAB-budget-check-extension
+# [WIP] YNAB-budget-check-extension
 A YNAB budget checking browser extension.
